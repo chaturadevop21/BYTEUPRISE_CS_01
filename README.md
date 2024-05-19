@@ -17,4 +17,6 @@ CSS: Styles the HTML elements for a better user experience.
 JavaScript: Implements the logic for real-time password strength evaluation.
 
 Screenshots
+<img width="1246" alt="image" src="https://github.com/chaturadevop21/BYTEUPRISE_CS_01/assets/141263849/c5db29c2-9568-4029-b4f3-34a32c9d8044">
+
 ![pss](https://github.com/chaturadevop21/BYTEUPRISE_CS_01/file:///C:/Users/Aditi/OneDrive/Desktop/Password%20Complexity%20Checker/index.html)
